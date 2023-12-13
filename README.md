@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@Iosiv42**
 - 👀 I’m interested in **backend developing**
-- 🌱 I’m currently learning **web programming**
+- 🌱 I’m currently learning **OpenGL and its neighborhood**
 - 💞️ I’m looking to collaborate on **myself** ;)
 - 📫 How to reach me: **alkane_church@proton.me**, **@Enzone42** (Telegram)
 
